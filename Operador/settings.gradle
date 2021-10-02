@@ -1,0 +1,2 @@
+rootProject.name = "Operador"
+include ':app'
